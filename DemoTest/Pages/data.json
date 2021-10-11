@@ -1,0 +1,13 @@
+{
+
+"input":
+[
+  {
+    "nom": "Salim MEKNI",
+    "email": "test@kouka.io",
+    "phone": "0700000000",
+    "entreprise": "Kouka consulting",
+    "message": "Ceci est un test automatique. Merci de ne pas prendre en compte ce message."
+  }
+]
+}
